@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Mor Ashkenazi",
+      "email": "mora@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "Israel Israeli",
+      "email": "israel@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harry@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "Harry Potter 2",
+      "email": "mora1@gmail.com",
+      "password": "12345678",
+      "id": 4
+    }
+  ],
+  "books": [
+    {
+      "name": "Harry Potter",
+      "author": "JK Rolling",
+      "genre": "Fantasy",
+      "price": 122,
+      "id": 1
+    },
+    {
+      "name": "Harry Potter 2",
+      "author": "JK Rolling",
+      "genre": "Biography",
+      "price": 145,
+      "id": 2
+    }
+  ]
+}
